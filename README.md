@@ -1,6 +1,6 @@
 # FaturaTakip(2019)
 
-| Fatura takip
+| Fatura takip Programı
 
 | kayıt,Güncelleme,Silme,Arama işlemlerinin yapıldığı bir C# programıdır.
 
