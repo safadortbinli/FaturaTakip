@@ -1,0 +1,28 @@
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\bin\Debug\FaturaTakip.exe.config
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\bin\Debug\FaturaTakip.exe
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\bin\Debug\FaturaTakip.pdb
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.csprojResolveAssemblyReference.cache
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form1.resources
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Properties.Resources.resources
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.csproj.GenerateResource.Cache
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.exe
+c:\users\safa\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.pdb
+C:\Users\SAFA\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\bin\Debug\DataAccess.dll
+C:\Users\SAFA\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form2.resources
+C:\Users\SAFA\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form3.resources
+C:\Users\SAFA\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form4.resources
+C:\Users\SAFA\documents\visual studio 2013\Projects\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form5.resources
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\bin\Debug\FaturaTakip.exe.config
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.exe
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.pdb
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\bin\Debug\FaturaTakip.exe
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\bin\Debug\FaturaTakip.pdb
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\bin\Debug\DataAccess.dll
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.csprojResolveAssemblyReference.cache
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form1.resources
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form2.resources
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form3.resources
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form4.resources
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Form5.resources
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.Properties.Resources.resources
+C:\Users\SAFA\Desktop\FaturaTakip\FaturaTakip\obj\Debug\FaturaTakip.csproj.GenerateResource.Cache
